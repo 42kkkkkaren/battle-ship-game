@@ -12,11 +12,11 @@ Agora que todos conhecemos a definição do jogo, o desafio consiste em implemen
 2. Cada jogador deverá posicionar em sua grelha dez submarinos.
 3. O programa aceitará apenas um jogador, pois o oponente será o computador.
 4. Para não precisarmos utilizar cores no terminal vamos usar as marcações:
-- Navio posicionado N (ene maiúsculo)
-- Tiro certeiro * (asterisco)
-- Tiro na água – (traço)
-- Tiro certeiro com navio posicionado X (xis maiúsculo)
-- Tiro na água com navio posicionado n (ene minúsculo)
+  - Navio posicionado N (ene maiúsculo)
+  - Tiro certeiro * (asterisco)
+  - Tiro na água – (traço)
+  - Tiro certeiro com navio posicionado X (xis maiúsculo)
+  - Tiro na água com navio posicionado n (ene minúsculo)
 
 
 ## Preview
